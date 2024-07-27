@@ -1,0 +1,40 @@
+@import "./vars.css";
+
+.App {
+    background-color: var(--color-bg);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.iconbar{
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+}
+
+.iconbar a{
+    display: block;
+    text-align: center;
+    padding: 5px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.iconbar a:hover{
+    background-color: #000;
+}
+
+.sideicon{
+    background: #3b5998;
+    color: white;
+}
+
+@media screen and (max-width:830px){
+    .iconbar{
+        display: contents;
+    }
+}

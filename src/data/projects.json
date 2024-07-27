@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Weather API",
+      "imageSrc": "projects/project.png",
+      "description": "The City Entered in the serach bar will show the City Temperature.",
+      "skills": ["API", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Password Strength Classifier",
+      "imageSrc": "projects/PAA.png",
+      "description": "To know the Strength, Enter the Password",
+      "skills": ["Python", "XG-Boost", "ML Model"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/farazzkkhan/PasswrodAnalyzer"
+    },
+    {
+      "title": "Chatting Application",
+      "imageSrc": "projects/MSCA.png",
+      "description": "Live Chatting available using Socket.io",
+      "skills": ["React","Express", "Socket.io", "MongoDB", "JWT"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

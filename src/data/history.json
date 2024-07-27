@@ -1,0 +1,38 @@
+[
+    {
+      "CertificateName": "NPTEL",
+      "Technology": "Cloud Computing",
+      "startDate": "Jan, 2024",
+      "endDate": "April, 2024",
+      "experiences": ["Gained in-depth knowledge of Cloud Infrastructure", "Enhanced my Cloud-based solutions and their practical solutions"],
+      "imageSrc": "history/nptel.png",
+      "link": "https://www.google.com"
+    },
+    {
+      "CertificateName": "NPTEL",
+      "Technology": "Data Analytics with Python",
+      "startDate": "Jan, 2024",
+      "endDate": "April, 2024",
+      "experiences": ["Gained Hands-on Analytics skills", "Learned Data-Driven Decision making"],
+      "imageSrc": "history/nptel.png",
+      "link": "www.facebook.com"
+    },
+    {
+      "CertificateName": "Udemy",
+      "Technology": "Mastering Data Structures & Algorithms using C and C++",
+      "startDate": "Sept, 2021",
+      "endDate": "June, 2022",
+      "experiences": ["Leveled-up Data Structures & Algorithms in C/C++", "Have Strong knowlege about Graphs and Trees"],
+      "imageSrc": "history/udemy.png",
+      "link": "www.twitter.com"
+    },
+    {
+        "CertificateName": "Udemy",
+        "Technology": "The 2024 Web Development Bootcamp",
+        "startDate": "Nov, 2023",
+        "endDate": "Present",
+        "experiences": ["Learning the how the Web works", "Connecting the Backend and Frontend is now an easy job"],
+        "imageSrc": "history/udemy.png",
+        "link": "www.instagram.com"
+      }
+  ]
